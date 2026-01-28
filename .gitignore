@@ -1,0 +1,29 @@
+# Spec Kit Disconnected - Git Ignore
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE/Editor folders (keep .vscode/settings.json template)
+.idea/
+*.swp
+*.swo
+*~
+
+# When installed in target projects, ignore generated content
+# (These patterns are for when spec-kit is installed, not for the repo itself)
+# specs/*/issues/
+# specs/*/checklists/
+# property_management.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp

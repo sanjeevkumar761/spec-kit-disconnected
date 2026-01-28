@@ -1,0 +1,18 @@
+{
+  "github.copilot.chat.codeGeneration.instructions": [
+    {
+      "file": ".specify/agents/copilot-instructions.md"
+    }
+  ],
+  "chat.agent.instructions": {
+    "speckit.specify": ".specify/agents/speckit.specify.agent.md",
+    "speckit.plan": ".specify/agents/speckit.plan.agent.md",
+    "speckit.tasks": ".specify/agents/speckit.tasks.agent.md",
+    "speckit.clarify": ".specify/agents/speckit.clarify.agent.md",
+    "speckit.checklist": ".specify/agents/speckit.checklist.agent.md",
+    "speckit.analyze": ".specify/agents/speckit.analyze.agent.md",
+    "speckit.implement": ".specify/agents/speckit.implement.agent.md",
+    "speckit.constitution": ".specify/agents/speckit.constitution.agent.md",
+    "speckit.taskstoissues": ".specify/agents/speckit.taskstoissues.agent.md"
+  }
+}
